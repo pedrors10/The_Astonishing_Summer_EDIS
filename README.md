@@ -1,2 +1,2 @@
-# The_Astonishing_Summer_EDIS
+# The Astonishing Summer EDIS
 Proyecto The astonishing EDIS 2022
